@@ -1,4 +1,4 @@
-// NIM - NAMA
+// 12S23008 - Ranty Insen Pakpahan
 
 #include <stdio.h>
 
